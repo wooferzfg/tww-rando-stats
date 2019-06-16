@@ -1,0 +1,13 @@
+{
+  "name": "tww-rando-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pelevesque/elo": "^2.0.3",
+    "lodash": "^4.17.11"
+  }
+}
