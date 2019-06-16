@@ -2,7 +2,7 @@ const _ = require('lodash');
 const data = require('./data');
 const Elo = require('@pelevesque/elo');
 
-const elo = new Elo();
+const elo = new Elo({ k: 40 });
 const raceResults = _.map(data, (race) => {
   const results = race.results;
   let worstTime = -1;
@@ -36,6 +36,8 @@ const updateFromRace = (first, second) => {
   ratings[first.runner] = firstOutcome.rating;
   ratings[second.runner] = secondOutcome.rating;
 };
+
+const sortRatings = (unsortedRatings) => _.fromPairs(_.sortBy(_.toPairs(unsortedRatings), 1).reverse());
 
 setDefaultRatings([
   'wooferzfg1',
@@ -71,6 +73,6 @@ _.forEachRight(raceResults, (results) => {
   }
 });
 
-const sortedRatings = _.fromPairs(_.sortBy(_.toPairs(ratings), 1).reverse());
+const sortedRatings = sortRatings(ratings);
 
 console.log(sortedRatings);
