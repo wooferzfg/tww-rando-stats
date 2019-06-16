@@ -3019,6 +3019,61 @@
     "ranked_results": {}
   },
   {
+    "id": "249040",
+    "game": {
+      "id": 62,
+      "name": "The Legend of Zelda: The Wind Waker",
+      "abbrev": "tww",
+      "popularity": 60.000000,
+      "popularityrank": 20
+    },
+    "goal": "Randomizer (tourney settings)",
+    "date": "1554168546",
+    "numentrants": 3,
+    "results": [
+      {
+        "race": 249040,
+        "place": 1,
+        "player": "gymnast86",
+        "time": 6021,
+        "message": "",
+        "oldtrueskill": 896,
+        "newtrueskill": 909,
+        "trueskillchange": 13,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 249040,
+        "place": 2,
+        "player": "JarheadHME",
+        "time": 7127,
+        "message": "",
+        "oldtrueskill": 0,
+        "newtrueskill": 286,
+        "trueskillchange": 286,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 249040,
+        "place": 9998,
+        "player": "shebbi_",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 0,
+        "newtrueskill": 0,
+        "trueskillchange": 0,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
     "id": "248980",
     "game": {
       "id": 5145,
