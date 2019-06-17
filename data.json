@@ -1,5 +1,60 @@
 [
   {
+    "id": "254588",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 18.000000,
+      "popularityrank": 58
+    },
+    "goal": "Weekly Race - Permalink: MS42LjAATW9kZXJuTGVhc3RTcGVha2VyABcDBAAnCGABAAAAAAA=",
+    "date": "1560722980",
+    "numentrants": 3,
+    "results": [
+      {
+        "race": 254588,
+        "place": 1,
+        "player": "wooferzfg1",
+        "time": 6239,
+        "message": "",
+        "oldtrueskill": 1195,
+        "newtrueskill": 1209,
+        "trueskillchange": 14,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 254588,
+        "place": 2,
+        "player": "deanx420",
+        "time": 7105,
+        "message": "",
+        "oldtrueskill": 950,
+        "newtrueskill": 956,
+        "trueskillchange": 6,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 254588,
+        "place": 3,
+        "player": "WindsRequiem",
+        "time": 7670,
+        "message": "",
+        "oldtrueskill": 738,
+        "newtrueskill": 733,
+        "trueskillchange": -5,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
     "id": "254485",
     "game": {
       "id": 5145,
