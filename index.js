@@ -28,7 +28,7 @@ const setDefaultRatings = (runners) => {
   });
 };
 
-const scoreFromMargin = (margin) => 1 / (1 + Math.exp(-margin / 100));
+const scoreFromMargin = (margin) => 1 / (1 + Math.exp(-margin / 240));
 
 const updateFromRace = (first, second) => {
   const score = scoreFromMargin(second.time - first.time);
