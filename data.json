@@ -1,5 +1,1256 @@
 [
   {
+    "id": "258752",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "Finish game. Seed: MS42LjEARnJlZURpcmVjdEphbGhhbGxhABcDBAAnCGACAAAAAAA=",
+    "date": "1566623087",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 258752,
+        "place": 1,
+        "player": "WindsRequiem",
+        "time": 8476,
+        "message": "",
+        "oldtrueskill": 830,
+        "newtrueskill": 835,
+        "trueskillchange": 5,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 258752,
+        "place": 9998,
+        "player": "gaspoweredpogi",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 0,
+        "newtrueskill": 11,
+        "trueskillchange": 11,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "258611",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "MS42LjEAVGhyZWVXYXlSYWNlUG9nABcDBAAnCGACAAAAAAA=",
+    "date": "1566357127",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 258611,
+        "place": 1,
+        "player": "JarheadHME",
+        "time": 7397,
+        "message": "",
+        "oldtrueskill": 992,
+        "newtrueskill": 994,
+        "trueskillchange": 2,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 258611,
+        "place": 9998,
+        "player": "Copilot",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 358,
+        "newtrueskill": 358,
+        "trueskillchange": 0,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "258326",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "MS42LjEAV2VlR3JhdGVmdWxEb29tABcDBAAnCGACAAAAAAA=",
+    "date": "1566015239",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 258326,
+        "place": 1,
+        "player": "JarheadHME",
+        "time": 7014,
+        "message": "",
+        "oldtrueskill": 990,
+        "newtrueskill": 993,
+        "trueskillchange": 3,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 258326,
+        "place": 9998,
+        "player": "gaspoweredpogi",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 0,
+        "newtrueskill": 0,
+        "trueskillchange": 0,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "258266",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "MS42LjEAS25vd2luZ1NlcmlvdXNLZWVzZQAXAwQAJwhgAwAAEAAA",
+    "date": "1565914460",
+    "numentrants": 3,
+    "results": [
+      {
+        "race": 258266,
+        "place": 1,
+        "player": "JarheadHME",
+        "time": 7137,
+        "message": "",
+        "oldtrueskill": 974,
+        "newtrueskill": 990,
+        "trueskillchange": 16,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 258266,
+        "place": 2,
+        "player": "deanx420",
+        "time": 7321,
+        "message": "",
+        "oldtrueskill": 914,
+        "newtrueskill": 913,
+        "trueskillchange": -1,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 258266,
+        "place": 3,
+        "player": "Montgol1",
+        "time": 8686,
+        "message": "",
+        "oldtrueskill": 0,
+        "newtrueskill": 25,
+        "trueskillchange": 25,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "258262",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "MS42LjEAVGVlbnlNaXhlZE9ibGkAFwMEACcIYAMAABAAAA==",
+    "date": "1565914418",
+    "numentrants": 3,
+    "results": [
+      {
+        "race": 258262,
+        "place": 1,
+        "player": "JarheadHME",
+        "time": 7670,
+        "message": "holy shit this sucked",
+        "oldtrueskill": 958,
+        "newtrueskill": 974,
+        "trueskillchange": 16,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 258262,
+        "place": 2,
+        "player": "deanx420",
+        "time": 7781,
+        "message": "easy seed, bad guessing",
+        "oldtrueskill": 918,
+        "newtrueskill": 914,
+        "trueskillchange": -4,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 258262,
+        "place": 9998,
+        "player": "Copilot",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 360,
+        "newtrueskill": 359,
+        "trueskillchange": -1,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "258252",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "MS42LjEASW5kaWdlbm91c1JveWFsTGFydXRvABcDBAAnCGADAAAQAAA=",
+    "date": "1565914303",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 258252,
+        "place": 1,
+        "player": "JarheadHME",
+        "time": 7374,
+        "message": "I literally never noticed that I got power bracelets at the beginning LUL",
+        "oldtrueskill": 942,
+        "newtrueskill": 958,
+        "trueskillchange": 16,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 258252,
+        "place": 2,
+        "player": "deanx420",
+        "time": 7466,
+        "message": "maybe i'll clean up my act",
+        "oldtrueskill": 925,
+        "newtrueskill": 918,
+        "trueskillchange": -7,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "258106",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "Beat Game.",
+    "date": "1565653487",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 258106,
+        "place": 1,
+        "player": "JarheadHME",
+        "time": 6586,
+        "message": "",
+        "oldtrueskill": 928,
+        "newtrueskill": 942,
+        "trueskillchange": 14,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 258106,
+        "place": 2,
+        "player": "WindsRequiem",
+        "time": 7306,
+        "message": "",
+        "oldtrueskill": 839,
+        "newtrueskill": 833,
+        "trueskillchange": -6,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "257830",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "Randomizer",
+    "date": "1565304582",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 257830,
+        "place": 1,
+        "player": "Tubamann",
+        "time": 9088,
+        "message": "",
+        "oldtrueskill": 418,
+        "newtrueskill": 495,
+        "trueskillchange": 77,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 257830,
+        "place": 9998,
+        "player": "gaspoweredpogi",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 0,
+        "newtrueskill": 0,
+        "trueskillchange": 0,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "257689",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "Beat Game",
+    "date": "1565183979",
+    "numentrants": 3,
+    "results": [
+      {
+        "race": 257689,
+        "place": 1,
+        "player": "JarheadHME",
+        "time": 7394,
+        "message": "",
+        "oldtrueskill": 921,
+        "newtrueskill": 929,
+        "trueskillchange": 8,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 257689,
+        "place": 2,
+        "player": "Praecipua",
+        "time": 7880,
+        "message": "",
+        "oldtrueskill": 475,
+        "newtrueskill": 507,
+        "trueskillchange": 32,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 257689,
+        "place": 9998,
+        "player": "Copilot",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 381,
+        "newtrueskill": 361,
+        "trueskillchange": -20,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "257601",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "get stuff kill stuff",
+    "date": "1565016086",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 257601,
+        "place": 1,
+        "player": "deanx420",
+        "time": 8617,
+        "message": "",
+        "oldtrueskill": 924,
+        "newtrueskill": 927,
+        "trueskillchange": 3,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 257601,
+        "place": 9998,
+        "player": "Copilot",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 382,
+        "newtrueskill": 381,
+        "trueskillchange": -1,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "256924",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "MS42LjAAU3Vzc0xvcmRzQ29vbAAXAwQAJwhgAgAAAAAA",
+    "date": "1564115250",
+    "numentrants": 4,
+    "results": [
+      {
+        "race": 256924,
+        "place": 1,
+        "player": "deanx420",
+        "time": 8392,
+        "message": "",
+        "oldtrueskill": 913,
+        "newtrueskill": 924,
+        "trueskillchange": 11,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 256924,
+        "place": 2,
+        "player": "Tubamann",
+        "time": 10734,
+        "message": "",
+        "oldtrueskill": 210,
+        "newtrueskill": 419,
+        "trueskillchange": 209,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 256924,
+        "place": 3,
+        "player": "susslord",
+        "time": 12479,
+        "message": "i can't believe i finished such a bad run",
+        "oldtrueskill": 0,
+        "newtrueskill": 186,
+        "trueskillchange": 186,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 256924,
+        "place": 9998,
+        "player": "Praecipua",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 522,
+        "newtrueskill": 476,
+        "trueskillchange": -46,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "256866",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "randomizer",
+    "date": "1564062994",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 256866,
+        "place": 1,
+        "player": "WindsRequiem",
+        "time": 8212,
+        "message": "",
+        "oldtrueskill": 837,
+        "newtrueskill": 841,
+        "trueskillchange": 4,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 256866,
+        "place": 9998,
+        "player": "susslord",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 0,
+        "newtrueskill": 0,
+        "trueskillchange": 0,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "256758",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "randomizer",
+    "date": "1563930602",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 256758,
+        "place": 1,
+        "player": "Copilot",
+        "time": 9642,
+        "message": "",
+        "oldtrueskill": 275,
+        "newtrueskill": 383,
+        "trueskillchange": 108,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 256758,
+        "place": 9998,
+        "player": "Praecipua",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 561,
+        "newtrueskill": 523,
+        "trueskillchange": -38,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "256701",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "Finish game. Seed: MS42LjAAVXJnZW50QWdyZWVhYmxlS251Y2tsZQAXAwQAJwhgAgAAAAAA",
+    "date": "1563842880",
+    "numentrants": 3,
+    "results": [
+      {
+        "race": 256701,
+        "place": 1,
+        "player": "WindsRequiem",
+        "time": 8383,
+        "message": "",
+        "oldtrueskill": 823,
+        "newtrueskill": 838,
+        "trueskillchange": 15,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 256701,
+        "place": 2,
+        "player": "Copilot",
+        "time": 8691,
+        "message": "",
+        "oldtrueskill": 20,
+        "newtrueskill": 276,
+        "trueskillchange": 256,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 256701,
+        "place": 9998,
+        "player": "deanx420",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 946,
+        "newtrueskill": 914,
+        "trueskillchange": -32,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "256375",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "speedgaming weekly",
+    "date": "1563455101",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 256375,
+        "place": 1,
+        "player": "JarheadHME",
+        "time": 8225,
+        "message": "",
+        "oldtrueskill": 914,
+        "newtrueskill": 923,
+        "trueskillchange": 9,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 256375,
+        "place": 9998,
+        "player": "Praecipua",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 567,
+        "newtrueskill": 562,
+        "trueskillchange": -5,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "255842",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "randomizer",
+    "date": "1562725744",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 255842,
+        "place": 1,
+        "player": "deanx420",
+        "time": 6185,
+        "message": "",
+        "oldtrueskill": 932,
+        "newtrueskill": 946,
+        "trueskillchange": 14,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 255842,
+        "place": 2,
+        "player": "JarheadHME",
+        "time": 6675,
+        "message": "",
+        "oldtrueskill": 927,
+        "newtrueskill": 914,
+        "trueskillchange": -13,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "255806",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "randomizer",
+    "date": "1562655917",
+    "numentrants": 3,
+    "results": [
+      {
+        "race": 255806,
+        "place": 1,
+        "player": "JarheadHME",
+        "time": 6308,
+        "message": "",
+        "oldtrueskill": 911,
+        "newtrueskill": 927,
+        "trueskillchange": 16,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 255806,
+        "place": 2,
+        "player": "WindsRequiem",
+        "time": 6564,
+        "message": "",
+        "oldtrueskill": 829,
+        "newtrueskill": 825,
+        "trueskillchange": -4,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 255806,
+        "place": 3,
+        "player": "Copilot",
+        "time": 6680,
+        "message": "",
+        "oldtrueskill": 17,
+        "newtrueskill": 22,
+        "trueskillchange": 5,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "255730",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "Finish Game. Seed: MS42LjAgR2xpdGNoZWQAR29sZGVuRXZpbE1pbmlibGluAAcDBAAnCGAAAAAAAAA=",
+    "date": "1562541487",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 255730,
+        "place": 1,
+        "player": "WindsRequiem",
+        "time": 6541,
+        "message": "",
+        "oldtrueskill": 807,
+        "newtrueskill": 829,
+        "trueskillchange": 22,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 255730,
+        "place": 9998,
+        "player": "deanx420",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 946,
+        "newtrueskill": 932,
+        "trueskillchange": -14,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "255523",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "Finish game. Seed: MS42LjAgR2xpdGNoZWQASG9yaXpvbnRhbFNvbGlkUG9zdAAHAwQAJwhgAAAAAAAA",
+    "date": "1562274558",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 255523,
+        "place": 1,
+        "player": "WindsRequiem",
+        "time": 8301,
+        "message": "",
+        "oldtrueskill": 783,
+        "newtrueskill": 808,
+        "trueskillchange": 25,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 255523,
+        "place": 9998,
+        "player": "deanx420",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 961,
+        "newtrueskill": 946,
+        "trueskillchange": -15,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "255425",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "Finish Game. Seed: MS42LjAAVW5pcXVlRGlzdGFudFBldAAXAwQAJwhgAgAAAAAA",
+    "date": "1562108320",
+    "numentrants": 3,
+    "results": [
+      {
+        "race": 255425,
+        "place": 1,
+        "player": "WindsRequiem",
+        "time": 8559,
+        "message": "",
+        "oldtrueskill": 756,
+        "newtrueskill": 784,
+        "trueskillchange": 28,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 255425,
+        "place": 2,
+        "player": "JarheadHME",
+        "time": 8707,
+        "message": "",
+        "oldtrueskill": 933,
+        "newtrueskill": 912,
+        "trueskillchange": -21,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 255425,
+        "place": 9998,
+        "player": "Copilot",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 12,
+        "newtrueskill": 18,
+        "trueskillchange": 6,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "255328",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "SG Weekly on SG2 - Permalink MS42LjAAU3VpdGFibGVPbmVCdWRTR0RhaWx5MzBKdW4AFwMEACcIYAEAAAAAAA==",
+    "date": "1561915001",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 255328,
+        "place": 1,
+        "player": "deanx420",
+        "time": 6904,
+        "message": "",
+        "oldtrueskill": 954,
+        "newtrueskill": 962,
+        "trueskillchange": 8,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 255328,
+        "place": 9998,
+        "player": "WindsRequiem",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 761,
+        "newtrueskill": 756,
+        "trueskillchange": -5,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "255191",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "Defeat Ganondorf. Perma - MS42LjAASHVuZHJlZExvY2FsTGFydXRvABcDBAAnCGACAAAAAAA=",
+    "date": "1561685648",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 255191,
+        "place": 1,
+        "player": "JarheadHME",
+        "time": 7736,
+        "message": "This seed was all over the place holy",
+        "oldtrueskill": 932,
+        "newtrueskill": 933,
+        "trueskillchange": 1,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 255191,
+        "place": 2,
+        "player": "Copilot",
+        "time": 10253,
+        "message": "",
+        "oldtrueskill": 10,
+        "newtrueskill": 13,
+        "trueskillchange": 3,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "255136",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "Finish Game: Seed: MS42LjAATXVsdGlwbGVHdWFyZGVkTWluaWJsaW4AFwMEACcIYAMAABAAAA==",
+    "date": "1561594110",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 255136,
+        "place": 1,
+        "player": "WindsRequiem",
+        "time": 8767,
+        "message": "",
+        "oldtrueskill": 759,
+        "newtrueskill": 762,
+        "trueskillchange": 3,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 255136,
+        "place": 9999,
+        "player": "Copilot",
+        "time": -2,
+        "message": "prier: dc'd, never .quit",
+        "oldtrueskill": 5,
+        "newtrueskill": 10,
+        "trueskillchange": 5,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "255119",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "MS42LjAARGFpbHlBd2FyZUdlbml1cwAXAwQAJwhgAwAAEAAA",
+    "date": "1561518047",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 255119,
+        "place": 1,
+        "player": "WindsRequiem",
+        "time": 7943,
+        "message": "",
+        "oldtrueskill": 727,
+        "newtrueskill": 759,
+        "trueskillchange": 32,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 255119,
+        "place": 2,
+        "player": "JarheadHME",
+        "time": 8132,
+        "message": "",
+        "oldtrueskill": 960,
+        "newtrueskill": 933,
+        "trueskillchange": -27,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "254761",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "Finish game. Seed: MS42LjAAT3BlbkFudGlxdWF0ZWRSaXRvABcDBAAnCGADAAAQAAA=",
+    "date": "1561006424",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 254761,
+        "place": 1,
+        "player": "WindsRequiem",
+        "time": 7877,
+        "message": "",
+        "oldtrueskill": 723,
+        "newtrueskill": 727,
+        "trueskillchange": 4,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 254761,
+        "place": 2,
+        "player": "Copilot",
+        "time": 9385,
+        "message": "",
+        "oldtrueskill": 0,
+        "newtrueskill": 5,
+        "trueskillchange": 5,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "254713",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "Weekly Race - MS42LjAARGFuZ2Vyb3VzUGxhaW5Lb21hbGkAFwMEACcIYAMAABAAAA==",
+    "date": "1560924785",
+    "numentrants": 3,
+    "results": [
+      {
+        "race": 254713,
+        "place": 1,
+        "player": "gymnast86",
+        "time": 8032,
+        "message": "",
+        "oldtrueskill": 1036,
+        "newtrueskill": 1057,
+        "trueskillchange": 21,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 254713,
+        "place": 2,
+        "player": "JarheadHME",
+        "time": 8840,
+        "message": "",
+        "oldtrueskill": 960,
+        "newtrueskill": 961,
+        "trueskillchange": 1,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 254713,
+        "place": 9998,
+        "player": "WindsRequiem",
+        "time": -1,
+        "message": "",
+        "oldtrueskill": 728,
+        "newtrueskill": 723,
+        "trueskillchange": -5,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
+    "id": "254643",
+    "game": {
+      "id": 5145,
+      "name": "Wind Waker Randomizer",
+      "abbrev": "twwrandom",
+      "popularity": 8.000000,
+      "popularityrank": 101
+    },
+    "goal": "Finish Game Seed: MS42LjAARWZmZWN0aXZlVmFsdWFibGVHb256bwAXAwQAJwhgAQAAAAAA",
+    "date": "1560836834",
+    "numentrants": 2,
+    "results": [
+      {
+        "race": 254643,
+        "place": 1,
+        "player": "JarheadHME",
+        "time": 7629,
+        "message": "",
+        "oldtrueskill": 948,
+        "newtrueskill": 961,
+        "trueskillchange": 13,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      },
+      {
+        "race": 254643,
+        "place": 2,
+        "player": "WindsRequiem",
+        "time": 7814,
+        "message": "",
+        "oldtrueskill": 732,
+        "newtrueskill": 729,
+        "trueskillchange": -3,
+        "oldseasontrueskill": 0,
+        "newseasontrueskill": 0,
+        "seasontrueskillchange": 0
+      }
+    ],
+    "ranked_results": {}
+  },
+  {
     "id": "254588",
     "game": {
       "id": 5145,
