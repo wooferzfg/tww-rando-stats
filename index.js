@@ -41,24 +41,25 @@ const sortRatings = (unsortedRatings) => _.fromPairs(_.sortBy(_.toPairs(unsorted
 
 setDefaultRatings([
   'wooferzfg1',
+  'JarheadHME',
+  'gymnast86',
   'zombiegod96',
   'trogww',
-  'gymnast86',
-  'neefezmc',
   'deanx420',
-  'JarheadHME',
-  'Samura1man',
+  'neefe',
+  'jwiste',
   'linkus7',
   'WindsRequiem',
-  'Leumas342',
-  'Riekelt',
+  'Froztbite__',
   'Praecipua',
+  'Samura1man',
+  'Leumas342',
+  'Tubamann',
+  'squez',
   'SiYes',
-  'brightwolfz',
-  'lolicry',
-  'shebbi_',
-  'OnlyFriendlyGuy',
-  'Cal'
+  'Riekelt',
+  'OriginalElijah',
+  'Copilot'
 ]);
 
 _.forEachRight(raceResults, (results) => {
